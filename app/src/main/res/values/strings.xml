@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Payments ANTAD</string>
+    <string name="line_1">Loading</string>
+    <string name="line_2">Please Wait</string>
+    <string name="signup_fragment_title">Signup</string>
+    <string name="mobile_email_fragment_title">Add Mobile and Email</string>
+    <string name="title_activity_user_profile_main">UserProfileMain</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
